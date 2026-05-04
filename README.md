@@ -16,8 +16,13 @@ This project demonstrates basic network troubleshooting using system commands.
 
 ## Screenshots
 
+### Ping Output
 ![Ping Output](ping.png)
+
+### IP Config
 ![IP Config](ipconfig.png)
+
+### Tracert Output
 ![Tracert Output](tracert.png)
 
 ## Outcome
