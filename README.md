@@ -14,16 +14,14 @@ This project demonstrates basic network troubleshooting using system commands.
 - Traced network path using tracert
 - Observed packet loss and latency
 
-## Screenshots
-
 ### Ping Output
-![Ping Output](ping.png)
+<img src="ping.png" width="600"/>
 
 ### IP Config
-![IP Config](ipconfig.png)
+<img src="ipconfig.png" width="600"/>
 
 ### Tracert Output
-![Tracert Output](tracert.png)
+<img src="tracert.png" width="600"/>
 
 ## Outcome
 Gained practical knowledge of troubleshooting network issues using basic tools.
